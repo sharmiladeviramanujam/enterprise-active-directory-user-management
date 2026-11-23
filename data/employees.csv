@@ -1,0 +1,51 @@
+EmployeeID,FirstName,LastName,Username,Email,Department,JobTitle,Manager,Location,EmploymentType,HireDate,AccountStatus
+NST0001,Kavya,Iyer,kavya.iyer,kavya.iyer@northstar.example,Human Resources,HR Manager,priya.kapoor,Coimbatore,FullTime,2022-01-10,Enabled
+NST0002,Anjali,Raman,anjali.raman,anjali.raman@northstar.example,Human Resources,HR Executive,kavya.iyer,Coimbatore,FullTime,2023-03-15,Enabled
+NST0003,Megha,Nair,megha.nair,megha.nair@northstar.example,Human Resources,Recruitment Specialist,kavya.iyer,Coimbatore,FullTime,2023-06-12,Enabled
+NST0004,Divya,Krishnan,divya.krishnan,divya.krishnan@northstar.example,Human Resources,HR Coordinator,kavya.iyer,Coimbatore,FullTime,2024-02-19,Enabled
+NST0005,Riya,Sharma,riya.sharma,riya.sharma@northstar.example,Human Resources,Payroll Specialist,kavya.iyer,Coimbatore,FullTime,2024-05-20,Enabled
+NST0006,Pooja,Menon,pooja.menon,pooja.menon@northstar.example,Human Resources,Training Coordinator,kavya.iyer,Coimbatore,FullTime,2024-08-05,Enabled
+NST0007,Nisha,Patel,nisha.patel,nisha.patel@northstar.example,Human Resources,HR Assistant,kavya.iyer,Coimbatore,FullTime,2025-01-13,Enabled
+NST0008,Harini,Rao,harini.rao,harini.rao@northstar.example,Human Resources,Employee Relations Specialist,kavya.iyer,Coimbatore,FullTime,2025-04-07,Enabled
+NST0009,Rohan,Mehta,rohan.mehta,rohan.mehta@northstar.example,Finance,Finance Manager,vikram.shah,Coimbatore,FullTime,2022-02-14,Enabled
+NST0010,Arun,Kumar,arun.kumar,arun.kumar@northstar.example,Finance,Senior Accountant,rohan.mehta,Coimbatore,FullTime,2022-09-19,Enabled
+NST0011,Priya,Singh,priya.singh,priya.singh@northstar.example,Finance,Financial Analyst,rohan.mehta,Coimbatore,FullTime,2023-01-16,Enabled
+NST0012,Deepak,Verma,deepak.verma,deepak.verma@northstar.example,Finance,Accounts Executive,rohan.mehta,Coimbatore,FullTime,2023-07-10,Enabled
+NST0013,Swathi,Reddy,swathi.reddy,swathi.reddy@northstar.example,Finance,Payroll Accountant,rohan.mehta,Coimbatore,FullTime,2024-01-08,Enabled
+NST0014,Kiran,Joshi,kiran.joshi,kiran.joshi@northstar.example,Finance,Accounts Payable Specialist,rohan.mehta,Coimbatore,FullTime,2024-04-15,Enabled
+NST0015,Neha,Gupta,neha.gupta,neha.gupta@northstar.example,Finance,Accounts Receivable Specialist,rohan.mehta,Coimbatore,FullTime,2024-10-21,Enabled
+NST0016,Manoj,Das,manoj.das,manoj.das@northstar.example,Finance,Finance Assistant,rohan.mehta,Coimbatore,FullTime,2025-03-03,Enabled
+NST0017,Arjun,Nair,arjun.nair,arjun.nair@northstar.example,Information Technology,IT Manager,rohit.verma,Coimbatore,FullTime,2022-01-17,Enabled
+NST0018,Vivek,Rajan,vivek.rajan,vivek.rajan@northstar.example,Information Technology,System Administrator,arjun.nair,Coimbatore,FullTime,2022-06-20,Enabled
+NST0019,Sanjay,Kumar,sanjay.kumar,sanjay.kumar@northstar.example,Information Technology,IT Support Analyst,arjun.nair,Coimbatore,FullTime,2023-02-06,Enabled
+NST0020,Akash,Menon,akash.menon,akash.menon@northstar.example,Information Technology,Network Administrator,arjun.nair,Coimbatore,FullTime,2023-05-22,Enabled
+NST0021,Pranav,Iyer,pranav.iyer,pranav.iyer@northstar.example,Information Technology,Cloud Support Engineer,arjun.nair,Coimbatore,FullTime,2023-11-13,Enabled
+NST0022,Surya,Raman,surya.raman,surya.raman@northstar.example,Information Technology,Desktop Support Engineer,arjun.nair,Coimbatore,FullTime,2024-03-18,Enabled
+NST0023,Ajay,Shah,ajay.shah,ajay.shah@northstar.example,Information Technology,Cybersecurity Analyst,arjun.nair,Coimbatore,FullTime,2024-07-08,Enabled
+NST0024,Varun,Patel,varun.patel,varun.patel@northstar.example,Information Technology,Infrastructure Engineer,arjun.nair,Coimbatore,FullTime,2024-11-11,Enabled
+NST0025,Rahul,Das,rahul.das,rahul.das@northstar.example,Information Technology,IT Technician,arjun.nair,Coimbatore,FullTime,2025-02-17,Enabled
+NST0026,Keerthi,Rao,keerthi.rao,keerthi.rao@northstar.example,Information Technology,Identity Support Analyst,arjun.nair,Coimbatore,FullTime,2025-06-09,Enabled
+NST0027,Meera,Krishnan,meera.krishnan,meera.krishnan@northstar.example,Sales,Sales Manager,ananya.raman,Coimbatore,FullTime,2022-03-07,Enabled
+NST0028,Aditya,Sharma,aditya.sharma,aditya.sharma@northstar.example,Sales,Senior Sales Executive,meera.krishnan,Coimbatore,FullTime,2022-08-15,Enabled
+NST0029,Sneha,Reddy,sneha.reddy,sneha.reddy@northstar.example,Sales,Sales Executive,meera.krishnan,Coimbatore,FullTime,2022-12-12,Enabled
+NST0030,Karthik,Menon,karthik.menon,karthik.menon@northstar.example,Sales,Account Manager,meera.krishnan,Coimbatore,FullTime,2023-04-10,Enabled
+NST0031,Divya,Shah,divya.shah,divya.shah@northstar.example,Sales,Business Development Executive,meera.krishnan,Coimbatore,FullTime,2023-08-21,Enabled
+NST0032,Raj,Patel,raj.patel,raj.patel@northstar.example,Sales,Sales Representative,meera.krishnan,Coimbatore,FullTime,2023-10-16,Enabled
+NST0033,Ananya,Das,ananya.das,ananya.das@northstar.example,Sales,Client Relationship Executive,meera.krishnan,Coimbatore,FullTime,2024-01-22,Enabled
+NST0034,Harish,Rao,harish.rao,harish.rao@northstar.example,Sales,Sales Coordinator,meera.krishnan,Coimbatore,FullTime,2024-03-11,Enabled
+NST0035,Pallavi,Gupta,pallavi.gupta,pallavi.gupta@northstar.example,Sales,Account Executive,meera.krishnan,Coimbatore,FullTime,2024-06-17,Enabled
+NST0036,Naveen,Kumar,naveen.kumar,naveen.kumar@northstar.example,Sales,Sales Representative,meera.krishnan,Coimbatore,FullTime,2024-09-09,Enabled
+NST0037,Ishita,Verma,ishita.verma,ishita.verma@northstar.example,Sales,Customer Success Associate,meera.krishnan,Coimbatore,FullTime,2024-12-02,Enabled
+NST0038,Manish,Joshi,manish.joshi,manish.joshi@northstar.example,Sales,Regional Sales Executive,meera.krishnan,Coimbatore,FullTime,2025-02-10,Enabled
+NST0039,Tanya,Nair,tanya.nair,tanya.nair@northstar.example,Sales,Sales Operations Analyst,meera.krishnan,Coimbatore,FullTime,2025-05-19,Enabled
+NST0040,Suraj,Iyer,suraj.iyer,suraj.iyer@northstar.example,Sales,Lead Generation Specialist,meera.krishnan,Coimbatore,FullTime,2025-08-11,Enabled
+NST0041,Aditya,Rao,aditya.rao,aditya.rao@northstar.example,Management,Chief Executive Officer,,Coimbatore,FullTime,2020-01-06,Enabled
+NST0042,Olivia,Menon,olivia.menon,olivia.menon@northstar.example,Management,Chief Operating Officer,aditya.rao,Coimbatore,FullTime,2020-04-13,Enabled
+NST0043,Vikram,Shah,vikram.shah,vikram.shah@northstar.example,Management,Chief Financial Officer,aditya.rao,Coimbatore,FullTime,2020-07-20,Enabled
+NST0044,Priya,Kapoor,priya.kapoor,priya.kapoor@northstar.example,Management,Chief Human Resources Officer,aditya.rao,Coimbatore,FullTime,2021-02-15,Enabled
+NST0045,Rohit,Verma,rohit.verma,rohit.verma@northstar.example,Management,Chief Technology Officer,aditya.rao,Coimbatore,FullTime,2021-06-07,Enabled
+NST0046,Ananya,Raman,ananya.raman,ananya.raman@northstar.example,Management,Operations Director,olivia.menon,Coimbatore,FullTime,2021-09-13,Enabled
+NST0047,Sanjay,Iyer,sanjay.iyer,sanjay.iyer@northstar.example,Management,Strategy Manager,olivia.menon,Coimbatore,FullTime,2022-05-16,Enabled
+NST0048,Sneha,Nair,sneha.nair,sneha.nair@northstar.example,Management,Program Manager,olivia.menon,Coimbatore,FullTime,2023-01-09,Enabled
+NST0049,Karthik,Ravi,karthik.ravi,karthik.ravi@northstar.example,Management,Compliance Manager,olivia.menon,Coimbatore,FullTime,2023-07-17,Enabled
+NST0050,Divya,Mohan,divya.mohan,divya.mohan@northstar.example,Management,Business Manager,olivia.menon,Coimbatore,FullTime,2024-02-12,Enabled
