@@ -77,7 +77,7 @@ try {
     # Step 4: Identify active employees
     $ActiveEmployees = @(
         $Employees | Where-Object {
-            $_.AccountStatus.Trim() -eq "Active"
+            $_.AccountStatus.Trim() -eq "Enabled"
         }
     )
 
