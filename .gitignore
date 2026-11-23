@@ -1,0 +1,17 @@
+
+# Generated reports
+reports/*.txt
+reports/*.csv
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+*.swp
