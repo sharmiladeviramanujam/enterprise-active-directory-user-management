@@ -1,0 +1,74 @@
+{
+  "Project": {
+    "Name": "Active Directory and Microsoft 365 User Lifecycle Management Lab",
+    "Version": "1.0.0",
+    "Status": "In Progress",
+    "ImplementationType": "PowerShell Simulation",
+    "LastUpdated": "2026-11-23"
+  },
+  "Company": {
+    "Name": "Northstar Technologies",
+    "ShortName": "Northstar",
+    "Industry": "IT Services",
+    "Country": "India",
+    "EmployeeCount": 50
+  },
+  "ActiveDirectory": {
+    "DomainName": "northstar.local",
+    "NetBIOSName": "NORTHSTAR",
+    "DomainController": "NS-DC01",
+    "ServerPlatform": "Windows Server 2025",
+    "ClientPlatform": "Windows 11"
+  },
+  "Identity": {
+    "UsernameFormat": "firstname.lastname",
+    "EmployeeIdPrefix": "NST",
+    "EmployeeIdStart": 1,
+    "EmployeeIdEnd": 50,
+    "EmailDomain": "northstar.example"
+  },
+  "Departments": [
+    {
+      "Name": "Human Resources",
+      "Code": "HR",
+      "EmployeeCount": 8,
+      "SecurityGroup": "GG_HR_Users"
+    },
+    {
+      "Name": "Finance",
+      "Code": "FIN",
+      "EmployeeCount": 8,
+      "SecurityGroup": "GG_FIN_Users"
+    },
+    {
+      "Name": "Information Technology",
+      "Code": "IT",
+      "EmployeeCount": 10,
+      "SecurityGroup": "GG_IT_Users"
+    },
+    {
+      "Name": "Sales",
+      "Code": "SAL",
+      "EmployeeCount": 14,
+      "SecurityGroup": "GG_SAL_Users"
+    },
+    {
+      "Name": "Management",
+      "Code": "MGT",
+      "EmployeeCount": 10,
+      "SecurityGroup": "GG_MGT_Users"
+    }
+  ],
+  "Data": {
+    "EmployeeFile": "data/employees.csv",
+    "GroupFile": "data/department-groups.csv",
+    "ReportDirectory": "reports"
+  },
+  "Security": {
+    "PasswordStorage": "Never store plaintext passwords",
+    "AccessModel": "Least Privilege",
+    "GroupStrategy": "AGDLP",
+    "MFA": "Documented Design",
+    "AccountLockout": "Simulated"
+  }
+}
