@@ -1,0 +1,11 @@
+Department,DepartmentCode,SecurityGroup,GroupScope,GroupCategory,Description
+Human Resources,HR,GG_HR_Users,Global,Security,HR department membership
+Finance,FIN,GG_FIN_Users,Global,Security,Finance department membership
+Information Technology,IT,GG_IT_Users,Global,Security,IT department membership
+Sales,SAL,GG_SAL_Users,Global,Security,Sales department membership
+Management,MGT,GG_MGT_Users,Global,Security,Management department membership
+All Departments,ALL,GG_All_Employees,Global,Security,All employee membership
+Information Technology,IT,GG_IT_Helpdesk,Global,Security,Helpdesk support membership
+Information Technology,IT,GG_IT_Admins,Global,Security,IT administrative membership
+Human Resources,HR,GG_HR_Managers,Global,Security,HR management membership
+Finance,FIN,GG_FIN_Managers,Global,Security,Finance management membership
