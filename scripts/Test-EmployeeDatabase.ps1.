@@ -220,10 +220,13 @@ if ($warnings.Count -gt 0) {
     }
 }
 
-if ($errors.Count -eq 0) {
-    Write-Host "`nRESULT: VALIDATION PASSED" -ForegroundColor Green
-}
-else {
+if ($errors.Count -gt 0) {
     Write-Host "`nRESULT: VALIDATION FAILED" -ForegroundColor Red
     exit 1
+}
+elseif ($warnings.Count -gt 0) {
+    Write-Host "`nRESULT: VALIDATION PASSED WITH WARNINGS" -ForegroundColor Yellow
+}
+else {
+    Write-Host "`nRESULT: VALIDATION PASSED" -ForegroundColor Green
 }
