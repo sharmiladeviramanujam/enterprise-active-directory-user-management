@@ -29,11 +29,11 @@ $ErrorActionPreference = "Stop"
 
 # Department-to-security-group mapping
 $DepartmentGroups = @{
-    "HR"         = "GG_HR_Users"
-    "Finance"    = "GG_FIN_Users"
-    "IT"         = "GG_IT_Users"
-    "Sales"      = "GG_SAL_Users"
-    "Management" = "GG_MGT_Users"
+    "Human Resources"        = "GG_HR_Users"
+    "Finance"                = "GG_FIN_Users"
+    "Information Technology" = "GG_IT_Users"
+    "Sales"                  = "GG_SAL_Users"
+    "Management"             = "GG_MGT_Users"
 }
 
 # Required employee database fields
